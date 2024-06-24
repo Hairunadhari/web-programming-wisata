@@ -92,7 +92,7 @@ footer a{
     line-height: 26px;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 800px) {
     .isi img{
         width: 100%;
     }
