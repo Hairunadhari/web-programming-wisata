@@ -87,7 +87,7 @@ footer a{
     margin-top: 50px;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 600px) {
     .isi img{
         width: 100%;
     }
